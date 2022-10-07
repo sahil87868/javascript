@@ -1,0 +1,25 @@
+Q=What is jQuery?
+_______________________________________________________________________________________________________________________________________________________________________
+A=jQuery is a lightweight, "write less, do more", JavaScript library.
+
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+_______________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
+Q= How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery ,JQuery Animation?
+______________________________________________________________________________________________________________________________________________________________________         
+A=The css() method sets or returns one or more style properties for the selected elements. When used to return properties: This method returns the specified CSS property value of the FIRST matched element.
+  The addClass() or removeClass() methods are used to add the CSS classes when there is a need to add to our webpage when there is some event listener or to create some kind of effect.
+  The jQuery animate() method is used to create custom animations. Syntax: $(selector).animate({params},speed,callback); The required params parameter defines the CSS properties to be animated.
+______________________________________________________________________________________________________________________________________________________________________         
+______________________________________________________________________________________________________________________________________________________________________         
+Q=How to create slider with animation?
+______________________________________________________________________________________________________________________________________________________________________         
+A=The jQuery slideToggle() method toggles between the slideDown() and slideUp() methods. If the elements have been slid down, slideToggle() will slide them up. If the elements have been slid up, slideToggle() will slide them down. $(selector).slideToggle(speed,callback);
+______________________________________________________________________________________________________________________________________________________________________         
+______________________________________________________________________________________________________________________________________________________________________         
+
+
